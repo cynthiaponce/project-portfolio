@@ -1,0 +1,57 @@
+* {
+  font-family: Helvetica;
+}
+
+
+
+body {
+  background-color: #32a2a8;
+  border: 5px solid #3fd9d4;
+}
+
+.jumbotron {
+  background-color: #cbf0f7;
+  color: teal;
+  border: 5px solid teal;
+}
+
+
+.jumbotron h1{
+  text-align: center;
+}
+
+
+#selfie {
+  float:right;
+
+}
+
+
+h2 {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.line {
+  text-decoration: underline; 
+}
+
+
+.education li:nth-child(1) {
+  list-style: none;
+}
+
+.work li:nth-child(1) {
+  list-style: none;
+}
+
+.panel-body{
+
+}
+
+
+@media (min-width: 1200px) {
+.container{
+    width: 1400px;
+}
