@@ -6,7 +6,7 @@
 
 ## Description
 
-_The assignment required the following criteria:
+_The assignment required the following criteria:_
 *_Your name_
 *_An image of you, or something that represents you_
 *_A list of projects you have created with active links to their GitHub pages sites or GitHub repositories_
